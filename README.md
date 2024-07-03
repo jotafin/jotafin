@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014<br>📚 Eterno aprendiz ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2014<br>📚 Eternal learner  ...<br>🎯 Enjoying the process<br>🎲 Fun fact: Code with bugs</p>
 
 ###
 
