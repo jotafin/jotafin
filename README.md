@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Çearning..., learning... and learning...</p>
+<p align="left">Learning..., learning... and learning...</p>
 
 ###
 
